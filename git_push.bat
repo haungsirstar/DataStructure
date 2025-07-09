@@ -20,5 +20,12 @@ git commit -m "%commit_msg%"
 echo Pushing to remote repository branch main...
 git push origin main
 
+if %errorlevel% equ 0 (
+    echo Push completed successfully.
+) else (
+    echo Push failed.
+)
+
 pause
+
 
