@@ -1,0 +1,90 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Others
+*.cache
+*.ilk
+*.log
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipdb
+*.iobj
+*.idb
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*_h.h
+*.cachefile
+*.dbmdl
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# DotCover
+*.dotCover
+
+# Others temp files
+*.orig
+*.vsmdi
+*.ncb
+*.aps
+*.psess
+*.vsp
+*.vsix
+*.hlsl
+
+# Publish
+Publish/
